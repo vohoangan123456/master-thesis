@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images_dataset</folder>
+  <filename>012382.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>116</width>
+    <height>289</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>0</ymin>
+      <xmax>116</xmax>
+      <ymax>289</ymax>
+    </bndbox>
+  </object>
+</annotation>
